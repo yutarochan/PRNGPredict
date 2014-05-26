@@ -4,7 +4,7 @@ PRNGPredict
 An experimental pseudo-random number generator prediction concept.
 
 <h2>Sample Output</h2>
-<p>The following results were based on an actual execution of the program...</p><br />
+<p>The following results were based on an actual execution of the program...</p>
 
 ```
 FIRST VALUE: 757526105
