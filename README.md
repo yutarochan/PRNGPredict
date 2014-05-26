@@ -1,7 +1,7 @@
 PRNGPredict
 ===========
 
-An experimental pseudo-random number generator prediction concept.
+An experimental pseudo-random number generator prediction concept for Java.
 
 <h2>Sample Output</h2>
 <p>The following results were based on an actual execution of the program...</p>
